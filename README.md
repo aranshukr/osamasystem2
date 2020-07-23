@@ -1,1 +1,0 @@
-# osamasystem2
