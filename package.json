@@ -54,7 +54,7 @@
     "name": "^0.0.2",
     "new": "0.1.1",
     "node-emoji": "^1.10.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "node-opus": "^0.3.1",
     "npm": "^6.5.0",
     "opusscript": "0.0.6",
